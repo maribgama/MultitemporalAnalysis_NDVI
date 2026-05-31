@@ -34,16 +34,10 @@ Para isso, estabeleci objetivos técnicos secundários:
 
 Abaixo estão os produtos finais gerados pelo código, prontos para entrarem direto no documento do TCC.
 
-### Prancha Cartográfica Multitemporal (3x2)
-
-![Prancha NDVI Final](prancha_ndvi_3anos_final_ajustada.png)
+### Prancha Cartográfica Multitemporal
+<img width="2617" height="3216" alt="prancha_ndvi_3anos_final" src="https://github.com/user-attachments/assets/66f85155-3937-4e23-8aa7-c278d7807f60" />
 *Prancha sintética comparando a Estação Seca e a Estação Chuvosa nos anos-chave de 2016, 2020 e 2025.*
 
 ### Gráfico Histórico de Sazonalidade (2015-2025)
-
-*(Inserir um print ou o arquivo gerado pelo gráfico histórico aqui. Como não o tínhamos embutido no último bloco de código, esta é a seção ideal para ele).*
-![Gráfico NDVI](grafico_ndvi_historico.png)
-*Gráfico de linhas gerado pelo notebook (`df_tcc.to_csv`), mostrando a dinâmica de NDVI média ao longo dos anos, com destaque para a queda característica durante a estação seca (caducifólia).*
-
----
-*Trabalho desenvolvido como parte integrante do meu TCC em Geografia — Universidade de Brasília (UnB).*
+<img width="2767" height="1540" alt="grafico_sazonalidade_ndvi_final" src="https://github.com/user-attachments/assets/87b88d23-46ff-4517-8425-dcf47f271440" />
+*Gráfico de linhas gerado mostrando a dinâmica de NDVI média ao longo dos anos, com destaque para a queda característica durante a estação seca (caducifólia).*
