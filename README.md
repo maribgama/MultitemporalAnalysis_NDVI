@@ -36,8 +36,8 @@ Abaixo estão os produtos finais gerados pelo código:
 
 ### Prancha Cartográfica Multitemporal
 <img width="2617" height="3216" alt="prancha_ndvi_3anos_final" src="https://github.com/user-attachments/assets/66f85155-3937-4e23-8aa7-c278d7807f60" />
-_Prancha sintética comparando a Estação Seca e a Estação Chuvosa nos anos-chave de 2016, 2020 e 2025._
+Prancha sintética comparando a Estação Seca e a Estação Chuvosa nos anos-chave de 2016, 2020 e 2025.
 
 ### Gráfico Histórico de Sazonalidade (2015-2025)
 <img width="2767" height="1540" alt="grafico_sazonalidade_ndvi_final" src="https://github.com/user-attachments/assets/87b88d23-46ff-4517-8425-dcf47f271440" />
-_Gráfico de linhas gerado mostrando a dinâmica de NDVI média ao longo dos anos, com destaque para a queda característica durante a estação seca (caducifólia)._
+Gráfico de linhas gerado mostrando a dinâmica de NDVI média ao longo dos anos, com destaque para a queda característica durante a estação seca (caducifólia).
